@@ -1,0 +1,5 @@
+6a, 8c, 12b, 13a, 13b, 
+14d-pointer, 15d--- pointer file,
+Recursion ,
+ 
+n1, n2 
